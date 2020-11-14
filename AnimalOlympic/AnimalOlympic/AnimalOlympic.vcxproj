@@ -153,12 +153,12 @@
   <ItemGroup>
     <ClCompile Include="AnimalOlympic.cpp" />
     <ClCompile Include="CommitteeOfGame.cpp" />
-    <ClCompile Include="Observer.cpp" />
+    <ClCompile Include="CommitteeOfOlympic.cpp" />
     <ClCompile Include="Proxy.cpp" />
   </ItemGroup>
   <ItemGroup>
     <ClInclude Include="CommitteeOfGame.h" />
-    <ClInclude Include="Observer.h" />
+    <ClInclude Include="CommitteeOfOlympic.h" />
     <ClInclude Include="Proxy.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />

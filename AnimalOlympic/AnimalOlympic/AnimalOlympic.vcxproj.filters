@@ -36,24 +36,24 @@
     <ClCompile Include="AnimalOlympic.cpp">
       <Filter>源文件</Filter>
     </ClCompile>
-    <ClCompile Include="Proxy.cpp">
+    <ClCompile Include="CommitteeOfGame.cpp">
       <Filter>源文件\xjt\Proxy</Filter>
     </ClCompile>
-    <ClCompile Include="Observer.cpp">
-      <Filter>源文件\xjt\Observer</Filter>
+    <ClCompile Include="CommitteeOfOlympic.cpp">
+      <Filter>源文件\xjt\Proxy</Filter>
     </ClCompile>
-    <ClCompile Include="CommitteeOfGame.cpp">
+    <ClCompile Include="Proxy.cpp">
       <Filter>源文件\xjt\Proxy</Filter>
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
-    <ClInclude Include="Proxy.h">
+    <ClInclude Include="CommitteeOfGame.h">
       <Filter>头文件\xjt\Proxy</Filter>
     </ClInclude>
-    <ClInclude Include="Observer.h">
-      <Filter>头文件\xjt\Observer</Filter>
+    <ClInclude Include="CommitteeOfOlympic.h">
+      <Filter>头文件\xjt\Proxy</Filter>
     </ClInclude>
-    <ClInclude Include="CommitteeOfGame.h">
+    <ClInclude Include="Proxy.h">
       <Filter>头文件\xjt\Proxy</Filter>
     </ClInclude>
   </ItemGroup>
